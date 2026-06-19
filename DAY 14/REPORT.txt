@@ -1,0 +1,205 @@
+=========================================================================
+OBJECT ANALYSIS REPORT
+=========================================================================
+Date: 2026-06-19 17:44:13
+Image: wave.png
+Dimensions: 835 x 557 pixels
+=========================================================================
+PIPELINE STEPS
+=========================================================================
+✓ Load image
+✓ Preprocess (grayscale, blur, histogram equalization)
+✓ Threshold (Otsu's method)
+✓ Edge detection (Canny)
+✓ Find contours
+✓ Analyze contours
+✓ Visualize results
+=========================================================================
+CONTOUR ANALYSIS
+=========================================================================
+Total contours found: 21
+
+Contour #1
+ Shape: Circle
+ Area: 122 pixels
+ Perimeter: 81.1 pixels
+ Bounding Box: 566, 541 - 24x16
+ Center: (577, 547)
+ Vertices: 10
+
+Contour #2
+ Shape: Circle
+ Area: 111 pixels
+ Perimeter: 63.9 pixels
+ Bounding Box: 750, 529 - 23x16
+ Center: (762, 534)
+ Vertices: 7
+
+Contour #3
+ Shape: Circle
+ Area: 67 pixels
+ Perimeter: 39.8 pixels
+ Bounding Box: 606, 521 - 14x12
+ Center: (612, 525)
+ Vertices: 9
+
+Contour #4
+ Shape: Circle
+ Area: 64 pixels
+ Perimeter: 36.7 pixels
+ Bounding Box: 729, 519 - 14x9
+ Center: (736, 522)
+ Vertices: 9
+
+Contour #5
+ Shape: Rectangle
+ Area: 1319 pixels
+ Perimeter: 327.9 pixels
+ Bounding Box: 591, 503 - 134x54
+ Center: (649, 534)
+ Vertices: 4
+
+Contour #6
+ Shape: Circle
+ Area: 576 pixels
+ Perimeter: 133.3 pixels
+ Bounding Box: 795, 483 - 40x33
+ Center: (815, 500)
+ Vertices: 8
+
+Contour #7
+ Shape: Hexagon
+ Area: 60 pixels
+ Perimeter: 35.9 pixels
+ Bounding Box: 823, 471 - 12x10
+ Center: (829, 476)
+ Vertices: 6
+
+Contour #8
+ Shape: Circle
+ Area: 66 pixels
+ Perimeter: 46.0 pixels
+ Bounding Box: 646, 469 - 18x12
+ Center: (654, 473)
+ Vertices: 7
+
+Contour #9
+ Shape: Circle
+ Area: 64 pixels
+ Perimeter: 42.5 pixels
+ Bounding Box: 16, 456 - 19x6
+ Center: (24, 458)
+ Vertices: 9
+
+Contour #10
+ Shape: Hexagon
+ Area: 67 pixels
+ Perimeter: 33.3 pixels
+ Bounding Box: 805, 453 - 10x11
+ Center: (809, 457)
+ Vertices: 6
+
+Contour #11
+ Shape: Hexagon
+ Area: 72 pixels
+ Perimeter: 34.5 pixels
+ Bounding Box: 0, 446 - 10x11
+ Center: (4, 451)
+ Vertices: 6
+
+Contour #12
+ Shape: Circle
+ Area: 141 pixels
+ Perimeter: 49.0 pixels
+ Bounding Box: 158, 427 - 16x14
+ Center: (164, 434)
+ Vertices: 7
+
+Contour #13
+ Shape: Hexagon
+ Area: 77 pixels
+ Perimeter: 69.1 pixels
+ Bounding Box: 725, 411 - 28x15
+ Center: (738, 418)
+ Vertices: 6
+
+Contour #14
+ Shape: Circle
+ Area: 85 pixels
+ Perimeter: 57.0 pixels
+ Bounding Box: 204, 367 - 25x9
+ Center: (215, 370)
+ Vertices: 8
+
+Contour #15
+ Shape: Circle
+ Area: 372 pixels
+ Perimeter: 138.0 pixels
+ Bounding Box: 332, 348 - 48x36
+ Center: (356, 366)
+ Vertices: 7
+
+Contour #16
+ Shape: Circle
+ Area: 5366 pixels
+ Perimeter: 535.0 pixels
+ Bounding Box: 294, 332 - 149x126
+ Center: (370, 397)
+ Vertices: 10
+
+Contour #17
+ Shape: Circle
+ Area: 402 pixels
+ Perimeter: 136.9 pixels
+ Bounding Box: 261, 308 - 54x20
+ Center: (288, 317)
+ Vertices: 9
+
+Contour #18
+ Shape: Circle
+ Area: 52 pixels
+ Perimeter: 43.1 pixels
+ Bounding Box: 496, 225 - 19x6
+ Center: (504, 227)
+ Vertices: 8
+
+Contour #19
+ Shape: Circle
+ Area: 58 pixels
+ Perimeter: 34.7 pixels
+ Bounding Box: 277, 205 - 12x9
+ Center: (282, 209)
+ Vertices: 11
+
+Contour #20
+ Shape: Circle
+ Area: 112 pixels
+ Perimeter: 60.4 pixels
+ Bounding Box: 363, 166 - 26x8
+ Center: (376, 169)
+ Vertices: 10
+
+Contour #21
+ Shape: Pentagon
+ Area: 138238 pixels
+ Perimeter: 2629.8 pixels
+ Bounding Box: 0, 0 - 728x447
+ Center: (216, 145)
+ Vertices: 5
+=========================================================================
+SHAPE STATISTICS
+=========================================================================
+ Circle: 15
+ Rectangle: 1
+ Hexagon: 4
+ Pentagon: 1
+=========================================================================
+AREA STATISTICS
+=========================================================================
+ Min area: 52
+ Max area: 138238
+ Average area: 7023
+ Total area: 147490
+=========================================================================
+END OF REPORT
+=========================================================================
